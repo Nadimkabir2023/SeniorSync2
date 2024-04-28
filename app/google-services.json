@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149882812538",
+    "project_id": "seniorsync2",
+    "storage_bucket": "seniorsync2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149882812538:android:bc12a65285d9bb840ae3c3",
+        "android_client_info": {
+          "package_name": "com.example.seniorsync2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlFkpQA8Ylua-rDHfX3h7w_d5EL1Wkzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

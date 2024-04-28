@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".LoginActivity"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+
+        android:adjustViewBounds="true"
+        android:src="@drawable/logo_senior_sync" />
+
+    <EditText
+        android:id="@+id/usernameLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        android:layout_marginTop="1dp"
+        android:hint="@string/UserName"
+        android:textSize="28dp" />
+
+
+    <EditText
+        android:id="@+id/passwordLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usernameLogin"
+        android:layout_marginTop="5dp"
+        android:hint="@string/Password"
+        android:textSize="28dp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/passwordLogin"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#126266"
+        android:text="@string/login"
+        android:textAllCaps="false"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Auto_login"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#126266"
+        android:text="@string/Register"
+        android:textAllCaps="false"
+        android:textSize="28sp" />
+
+    <CheckBox
+        android:id="@+id/RememberPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnLogin"
+        android:layout_marginTop="5dp"
+        android:text="@string/Remember"
+        android:textColor="@android:color/black"
+        android:textSize="25dp" />
+
+    <CheckBox
+        android:id="@+id/Auto_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/RememberPass"
+        android:layout_marginTop="5dp"
+        android:text="@string/AutoLogin"
+        android:textColor="@android:color/black"
+        android:textSize="25dp" />
+
+</RelativeLayout>

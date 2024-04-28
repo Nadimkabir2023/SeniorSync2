@@ -1,0 +1,637 @@
+<resources>
+    <string name="app_name">Senior Sync</string>
+
+    <string name="personinfo">Personal Info</string>
+    <string name="account">UserName：</string>
+    <string name="logo">logo</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="send">Send</string>
+
+
+    <!-- Main Activity/Fragment -->
+    <string name="empty_view_text">Press the Button to add an alarm!</string>
+
+    <!-- Edit Alarm Activity/Fragment -->
+    <string name="time">Time</string>
+    <string name="label">Label</string>
+    <string name="days">Days</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="add_label_hint">Enter Medicine</string>
+    <string name="update_complete">Changes Saved</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="delete_complete">Alarm Deleted</string>
+    <string name="delete_failed">Delete Failed</string>
+    <string name="delete_dialog_title">Confirm Delete Alarm</string>
+    <string name="delete_dialog_content">Are you sure you would like to delete this alarm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Edit Alarm Menu -->
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Alarm Landing Page Activity/Fragment -->
+    <string name="launch_main_activity">Launch Main Activity</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Days -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Notification -->
+    <string name="channel_name">Health care</string>
+    <string name="MedicineName">Medicine Name</string>
+    <string name="CurrentTime">Current Time</string>
+    <string name="SystolicPressure">Systolic pressure：</string>
+    <string name="DiastolicPressure">DiastolicPressure ：</string>
+    <string name="HeartBeat">HeartBeat(bpm) ：</string>
+    <string name="GlucoseAC">Glucose(AC)：</string>
+    <string name="GlucosePC">Glucose(PC)：</string>
+    <string name="add">add</string>
+    <string name="welcome">Welcome </string>
+    <string name="welcome_nav">Senior Sync</string>
+    <string name="map">Map</string>
+    <string name="Medicine">Reminder</string>
+    <string name="Weather">Weather</string>
+    <string name="Emergency">Emergency Call</string>
+    <string name="Picture">Photo Creator</string>
+    <string name="health">Health Monitor</string>
+    <string name="select">Select Photo</string>
+    <string name="screenshot">screenshot</string>
+    <string name="black">B</string>
+    <string name="white">W</string>
+    <string name="Edit">EDIT TEXT HERE</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="Remember">Remember Password</string>
+    <string name="AutoLogin">AutoLogin</string>
+    <string name="Register">Register</string>
+    <string name="NickName">Nickname</string>
+    <string name="FullName">Full Name</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="Email">Email</string>
+    <string name="Emergencyphone1">Emergency phone1</string>
+    <string name="Emergencyphone2">Emergency phone2</string>
+    <string name="Emergencyphone3">Emergency phone3</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="Address">Address</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="save">save</string>
+    <string name="ApparentTemp">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="HighTemp">Hi :</string>
+    <string name="LowTemp">Lo :</string>
+    <string name="visibility">Visibility</string>
+    <string name="Wind">Wind</string>
+    <string name="lvl1">Level 1 (Light Air)</string>
+    <string name="lvl2">Level 2 (Light Breeze)</string>
+    <string name="lvl3">Level 3 (Gentle Breeze)</string>
+    <string name="lvl4">Level 4 (Moderate Breeze)</string>
+    <string name="lvl5">Level 5 (Fresh Breeze)</string>
+    <string name="lvl6">Level 6 (Strong Breeze)</string>
+    <string name="lvl7">Level 7 (Near Gale)</string>
+    <string name="lvl8">Level 8 (Gale)</string>
+    <string name="lvl9">Level 9 (Strong Gale)</string>
+    <string name="lvl10">Level 10 (Whole Gale)</string>
+    <string name="lvl11">Level 11 (Storm Force)</string>
+    <string name="lvl12">Level 12 (Hurricane Force)</string>
+    <string name="lvl0">Level 0 (Calm)</string>
+    <string name="user">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="social">Social</string>
+    <string name="share">Share</string>
+    <string name="before">Before Eating</string>
+    <string name="after">After Eating</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="context">Context Us</string>
+    <string name="today">Today temperature ：</string>
+    <string name="logout_content">Are you sure you want to exit? </string>
+    <string name="logout_title">Logout </string>
+    <string name="about_us">About us </string>
+    <string name="privacy">Privacy </string>
+    <string name="required">Required </string>
+    <string name="optional">Optional </string>
+    <string name="register_success">Registration Successful!</string>
+    <string name="register_fail">Registration Failed!</string>
+    <string name="user_exit">User already Exists! Please Sign In!</string>
+    <string name="password_match">Password not Matching!</string>
+    <string name="insert_success">Insert Successful! </string>
+    <string name="insert_fail">Insert Failed </string>
+    <string name="login_ps_success">Please enter the Credentials </string>
+    <string name="login_ps_fail">Invalid Credentials </string>
+    <string name="medicine_alarm"> Medicine </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="childcaution">Under The Guidance</string>
+    <string name="riskcaution">SKIP complex activities</string>
+
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">
+        Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base of your head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control.
+    </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+    <string name="pose6">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="wpose1">
+JOGGING\n\n
+Step 1. Stand erect and place the fists loosely on the chest.\n\n
+Step 2. Start skipping on the toes and touching the heels at the back in a relaxed way. Increase the speed gradually and come to a steady jogging speed.\n\n
+Step 3. Carry on deep rhythmic breathing and relax the whole body during jogging. Continue for a while.\n\n
+Step 4. Switch over to forward jogging by raising the knees to the chest level. Repeat for a while.\n\n
+Step 5. Continue the practice with side jogging by spreading the legs sidewards and raising the heels upwards by bending the knees. Stand a while and perform Mukha Dhouti. Relax in a standing position (Täḍāsana).
+</string>
+    <string name="wpose2">
+MUKHA DHAUTI ( CLEANSING THROUGH A SINGLE BLAST BREATH)\n\n
+Step 1. Stand with a slight forward bend of the trunk, palms on the thighs, and legs about a meter apart.\n\n
+Step 2. Inhale deeply and continuously expel the air forcibly as in a jet through the mouth. This is affected by the help of the diaphragm by prolonged exhalation.\n\n
+Step 3. Repeat several times
+</string>
+    <string name="wpose3">
+LOOSENING OF ANKLE JOINTS\n\n
+Step 1. Stand erect.\n\n
+Step 2. Raise and stretch up both hands from the front while inhaling.\n\n
+Step 3. Balance on the toes.\n\n
+Step 4. Bring down the hands and feet while exhaling.
+</string>
+    <string name="wpose4">
+LOOSENING OF KNEE JOINTS\n\n
+Step 1. Stand erect with hands straight down. Inhale completely.\n\n
+Step 2. Breathe out through the mouth while going down by bending the knee-joints and keeping them together.\n\n
+Step 3. Keep the body straight without bending at the waist. Come up while inhaling.
+</string>
+    <string name="wpose5">
+LOOSENING OF HIP JOINTS\n\n
+Step 1. Inhale while standing erect.\n\n
+Step 2. With knees far apart, but heels almost touch each other, sit down while exhaling.\n\n
+Step 3. Balance on the toes and sit on the heels. Try to push the knees apart with the palms.\n\n
+Step 4. Breathe in while getting up.
+</string>
+    <string name="wpose6">
+PĀDA SAÑCĀLANA\n\n
+Step 1. Stand erect but relaxed, with hands along the body.\n\n
+Step 2. Bring the right leg forward without bending the knees while inhaling.\n\n
+Step 3. Stay in the position for a few seconds.\n\n
+Step 4. Return to the standing position while exhaling.\n\n
+Step 5. Take the right leg backward (inhale).\n\n
+Step 6. Without bending the knee-joint, stay in the position for a few seconds. Return to the original position (exhale).\n\n
+Step 7. Raise the right leg sidewards to the right with the hip-joint as the hinge point (inhale). The leg is kept straight. Stay in the position for a few seconds.\n\n
+Step 8. Return to the original position (exhale). Raise the right leg sidewards to the left with the hip-joint as the hinge point (inhale). The leg is kept straight. Stay in the position for a few seconds. Return to the vertical position (exhale).\n\n
+Step 9. Repeat the complete set of movements with the left leg.
+</string>
+    <string name="wpose7">
+FRONT AND BACK BENDING OF WAIST\n\n
+Step 1. While inhaling, stretch up the hands and bend backwards.\n\n
+Step 2. Return to the vertical position and bend forward while exhaling.\n\n
+Step 3. Touch the ground with palms, if possible.\n\n
+Step 4. Come up and bend backwards during inhalation. Repeat 4 or 5 times.\n\n
+Step 5. With practice, you can touch the ground at the back with hands as in Cakrāsana and come up.
+</string>
+    <string name="wpose8">
+SIDE BENDING AND TWISTING OF WAIST\n\n
+(a) Side bending:\n\n
+Keep the legs about a meter apart.\n\n
+Raise the hands sideways parallel to the ground while inhaling.\n\n
+Bend to the right till the right-hand touches the heel while exhaling. Bend in the same plane. Look at the palm of the left hand directing forwards. Come up with inhalation. Repeat 4 or 5 times. Repeat the same on the left.\n\n
+\n(b) Twist with bending:\n\n
+Repeat (a), except that the right foot is touched with the left hand and the left foot with the right hand.\n\n
+\n(c ) Twist:\n\n
+Stand erect with hands spread out parallel to the ground, feet about 1/2 meter apart.\n\n
+Keeping the legs firm on the ground, twist to the right, right hand straight, and left hand bent at the elbow touching the chest. Exhale continuously during this twist. Come back while inhaling. Repeat on the left side. All twisting should be above the waist. Below the waist, maintain the body straight and firm bending at the knee joints. Repeat with increasing speed.
+</string>
+    <string name="wpose9">
+ROTATION FOR SHOULDER-JOINTS\n\n
+Step 1. Stand erect but relaxed, arms along the body.\n\n
+Step 2. Take the right hand back and up.\n\n
+Step 3. Rotate in an anti-clockwise direction.\n\n
+Step 4. Gradually increase the speed of rotation.\n\n
+Step 5. Return to the original position.\n\n
+Step 6. Rotate the right hand-front, up, back, and down.\n\n
+Step 7. Inhale as the hand goes up and exhale as the hand is brought down.\n\n
+Repeat the rotations in reverse order also back, up, front, and down.\n\n
+Repeat with the left hand.\n\n
+Repeat with both hands together\n\n
+</string>
+    <string name="wpose10">
+NECK-STRETCH\n\n
+Step 1. Sit on the knees, knees touching each other, heels together and facing upwards.\n\n
+Step 2. Bend forward. Rest the forehead on the ground.\n\n
+Step 3. Place the palms on either side of the head.\n\n
+Step 4. Move forward and backward with feet as the pivot.\n\n
+Step 5. Inhale while moving forward. Exhale while coming back. Repeat.\n\n
+</string>
+    <string name="wpose11">
+TIGER-STRETCH\n\n
+Step 1. Rest on the palms and the knees.\n\n
+Step 2. No bending at the elbow-joint.\n\n
+Step 3. Keep the heels apart.\n\n
+Step 4. Bring the head inwards flexing the spine up while exhaling fast through the mouth (spine convex).\n\n
+Step 5. While inhaling and raising the head up, arch the spine towards the floor (concave upwards). Repeat and increase the speed gradually.\n\n
+Step 6. Lie down on the abdomen, rest the chest on the ground and relax completely. If all the movements are done slowly, synchronizing with slow and deep breathing, it is known as Tiger breathing.\n\n
+</string>
+    <string name="wpose12">
+BACK-STRETCH\n\n
+Step 1. Rest on the toes and palms.\n\n
+Step 2. Jump backward keeping the hands straight, give a concave shape to the spine.\n\n
+Step 3. Stretch the body forward and look up. Inhale. Keep the feet together.\n\n
+Step 4. Jump forward to bring the feet between the palms.\n\n
+Step 5. Keep the palms firm on the ground. Exhale completely in this sitting position.\n\n
+Step 6. Jump backward. Start slowly and increase the speed. Repeat by jumping forwards and backward about 15 times.\n\n
+\n\n
+(a) Hands in and out breathing:\n\n
+Stand erect. Bring up the arms to a horizontal position, palms pressing each other, fingers pointing forward. Move the arms backward as much as possible while inhaling. The arms swing back with shoulders as hinges in the same horizontal plane. The chest is expanded. Bring the arms back to the front position while exhaling fully. Repeat 10 rounds.\n\n
+\n\n
+(b) Hands-stretch breathing:\n\n
+Interlock the fingers in front of the chest, palms inwards. Inhale slowly, stretch the arms straight out while twisting the interlocked hands, palms facing outwards. Exhale. Bring the hands back. Palms on the chest with relaxation. Repeat 10 times. Repeat the same movements in oblique (45°) and vertical planes.\n\n
+\n\n
+(c ) Ankle-stretch breathing:\n\n
+Stand erect. Keep the hands straight down, palms facing forward. While inhaling, raise the hands and stretch up the body on the toes. The hands and the arms stretched upwards. While exhaling, bring the hands down completely retracing the steps. Stand on the soles. Repeat 5 times.\n\n
+</string>
+    <string name="wpose13">
+BREATHING EXERCISES\n\n
+Step 1. Breathing Exercises done at the beginning of the Yoga practices help in slowing down the breath rate, thereby inducing deep relaxation.\n\n
+Step 2. They develop an awareness of breathing through the movements of different parts of the body. Close your eyes as you do them and be aware of your inner sensations.\n\n
+Step 3. Always breathe out over a longer time than you breathe in, synchronizing your breathing and movements. Note how you become calmer as your breathing slows.\n\n
+Step 4. Special tips: First emphasize the movement of hands and abdominal or thoracic muscles as needed in each exercise.\n\n
+Step 5. Correct the movements. Use "in" and "out" instructions loudly for inhalation and exhalation.\n\n
+Step 6. Check and correct the synchronization of breathing with the corresponding movements. As progress is made, close your eyes and practice.\n\n
+</string>
+
+
+    <string name="cpose1">
+1.STIMULATING THE BRAIN CELLS (KAPĀLABTI)\n\n1.Sit comfortably in Padmasana with an erect spine.\n2.Exhale forcibly using abdominal muscles.\n3.Inhale passively by relaxing  the abdominal muscles.\n4.Repeat as quickly as possible starting with 60 strokes per minute and increasing gradually upto 120 per minute.\n5.There is no holding of the breath.The rapid active exhalations with passive effortless inhalations are accomplished by flapping movements of the abdomen. At the end of the minute there is an automatic cessation of breath. Enjoy the deep silence of mind associated with this.\n\nBenefits: This kriya washes out the carbon dioxide from the blood, activates the brain cells, cleans the air passages and stimulates the abdominal organs
+</string>
+    <string name="cpose2">
+2.CLEANING THE NASAL PASSAGES (NETI)\n\nA.Jala Neti:\n2. Add about half a tea-spoon of salt to a Neti-pot-full of luke-warm water.\n3.Hold the pot in the right hand.Insert the nozzle of the pot into the right nostril.Keep the mouth open to allow free breathing through the mouth.\n4.Tilt the head first slightly backwards, then forwards and sidewards to the left, so that the water from the pot enters the right nostril and comes out through the left by gravity.\n5.Allow the flow till the pot is empty. Repeat the same on the left side. Blast out the air accumulated in both the nostrils by active exhalations through alternate nostrils as in Kapālabhāti to clean the nasal passages of the remaining water.By slightly bending the head back, the water goes to mouth which can be swallowed after washing the passages of nostrils. This is called "Uṣaḥ pāna" which can be practiced early morning before sunrise with beneficial effects.\n\nB. Sūtra Neti or Rubber Catheter Neti (सूत्र नेति)\n\n1.Insert the blunt end of a thin soft rubber catheter from the front horizontally in the right nostril.\n2. Push it along the floor of the nose until the tip is felt in the back of the throat.\n3.Insert the right index and the middle fingers through the mouth and catch the tip of the catheter at the back of the throat. Put it out through the mouth and gently massage the nasal passage by catching the two ends of the tube.\n4.Remove the catheter through the nose. Repeat on the left side.\n\nC. Dugdha Neti and Ghrita Neti (दुग्ध नेति एवं घृत नेति)\n\nHere milk and ghee are used respectively in place of water as in Jala Neti.\n\nD. Vyutkrama Kapāla Neti (व्युत्क्रम कपाल नेति)\n\nThis is similar to Jala Neti, with the difference that the water comes out of the mouth instead of through the opposite nostril.\n\nE. Sitkrama Kapāla Neti (सीत्क्रम कपाल नेति)\n\n1.Take a mouthful of luke-warm saline water.\n2.Bend forward and relax the soft palate so that the water comes out of the nose.\n3.Neti Kriya is to be followed by a few rounds of Kapālabhāti, so as to keep the nasal passage clear. Neti, in general, purifies most structures in the head and neck.\n\nBenefits: Neti not only clears the nasal passages but also renders the nose resistant to many irritants like water, cotton, rubber, ghee, milk etc. Hence it is very helpful in removing the hypersensitivity as seen in persons suffering from allergic rhinitis. Vision becomes more subtle.
+</string>
+    <string name="cpose3">
+3.CLEANSING THE INTESTINAL TRACT UP TO THE STOMACH (DHOUTI)\n\nA.Jala Dhouti or Vamana Dhouti\n\n1.Sit on heels, and drink luke-warm saline water till you can take no more, or till you feel like vomiting it out.\n2.Churn the stomach by twisting exercise(1.8)Stand with feet together and trunk bent forward forming an angle of about 90° and vomit.\n3.Now with the help of the middle three fingers tickle the back of the throat to vomit out (Vamana) all the water.\n4.Repeat the process of tickling, till no more water comes out, which means that almost all water had been vomited.\n5.This Kriya is also called as Kunjal. With continued practice, one can stimulate the vomiting sensation and vomit out the water without using the fingers at the throat. Further practice can lead to a continuous vomiting of all the water through the mouth, as if it is coming in a jet resembles the water-jet that comes out of the trunk of an elephant and as such is termed "Gajakarani".\n\nB.Vastra Dhouti (वस्त्र धौति )\n\n1.Slowly swallow a wet piece of cloth four fingers broad and about 7 meters long under the guidance of an instructor or a Guru.\n2.Slowly bring out the cloth without forcibly pulling it.\n3.This process is called Vastra Dhouti. If the vastra tends to get stuck up, drink some water to release the spasm.\n\nC. Danda Dhouti (दंडा धौति)\n\n1.Drink lukewarm saline water as in Vamana Dhouti.\n2.Take a rubber tube (Danda) about 1 cm. in diameter and about a meter long. Slowly place one end of the tube and push it down the gullet into the stomach. When it reaches the stomach, slowly bend forward.\n3.All the water will come out by syphon action. Suck in and bulge out the stomach if necessary. Remove the tube gently.\n4.These Kriyas should be performed early in the morning preferably before dawn and after clearing the bowels.\n\nBenefits: Dhouti Kriya is extremely useful for gas trouble, high acidity in the stomach, and for curing Asthma also.
+</string>
+    <string name="cpose4">
+4.CONTROL OF THE ABDOMINAL  RECTI (NAULI)\n\nA.Uddiyana\n\n2.Stand with a slight forward bend of the trunk, palms on the thighs and legs about a meter apart.\n3.Exhale completely by vigorously contracting the muscles of the abdomen. Chest also gets contracted.\n4.Press the hands against the thighs (thus fixing up the muscles of the neck and the shoulders) and have vigorous mock-inhalation by raising the ribs without allowing air to flow into the lungs.\n5.Relax the muscles of the abdomen. Automatically the diaphragm will rise up producing a concave depression of the abdomen. This is called Udḍīyana.\n6.In this breathe-out condition  push-out and pull-in the abdominal muscles fast. Continue until the "breathe-out condition" lasts. Count the number of flappings. This process is called Agnisara Kriya (अग्निसार क्रिया).\n\nBenefits: This Kriyā tones up the digestive system by continued stimulations.\n\nB. Madhyama Nauli (मध्यम नौलि)\n\n1.Maintaining Uḍḍīyana, give a forward and downward push to the abdominal point just above the pelvic bone in the mid-line, where the two recti originate.\n2.This push brings about the contraction of these muscles which stand out in the center, leaving the other muscles of the abdominal wall in a relaxed condition. This is Madhyama Nauli (Middle Nauli).\n\nC. Dakṣina  nauli (दक्षिण एवं वाम नौलि)\n1.For Dakṣina (right) Nauli, one has to contract the right rectus alone leaving the other muscles including the left rectus relaxed.\n2.For Vama (left) Nauli, only the left rectus is contracted leaving the others relaxed.\n\nD. Nauli Cālana (नौलि चालन)\n\n1.When one has gained full control over these three types of Nauli, rolling of the recti muscles clockwise and anticlockwise is practiced. This is called “Nauli Calana”.\n\nBenefits: A very fine Kriya for promoting the health of the abdominal viscera. The autonomic nerve centers and the endocrine glands in the abdomen are all activated. Due to the negative pressure created in the abdomen, the circulation to the abdominal organs improves enormously, and stimulates gastric fire, thus helping digestion.
+</string>
+    <string name="cpose5">
+5.Fixing the Mind (Traṭaka)\n\n1.Sit in any meditative posture Padmasana, Vajrasana, etc., comfortably with an erect spine.\n\n2.Arrange a lightened lamp with the flame at the same height as the eyes at a distance of about a meter. Start gazing at the flame without winking the eyelids.\n\n3.Learn to ignore the irritation and watering of the eyes. With practice, the gaze becomes steady, making the mind single-pointed. Relaxation of the eyes is important. Otherwise, excessive strain of the eye muscles may cause headaches. Progress slowly starting with 10 secs. and increasing the duration by 10 secs. per week.\n\nBenefits: This cleansing process activates the tear glands, purifies the visual system, promotes good concentration, and strengthens willpower. Generally, it cures eye defects if done properly.
+</string>
+    <string name="cpose6">
+6.CLEANSING IN INVERTED POSTURE (VIPARITAKARANÍ KRIYĀ)\n\n1.Lie supine on the ground over the blanket, with arms stretched above the head. 1.Raise the legs together to 45° keeping the knees straight.\n\n2.Raise further to 90°.\n\n3.Now raise the buttocks and the trunk, by supporting the body with the palms at the waist, to take the weight on the arms and elbows.\n\n4.Come to the final position with the body at 45° to the ground and the legs vertical.\n\n5.Perform forcible exhalations as in Kapālabhāti Kriya, start with 10 strokes and gradually increase the number of strokes. Come down slowly and relax.\n\nBenefits: Kriya stimulates the abdominal organs toning them up. Very effective for persons suffering from abdominal disorders and diabetes.
+</string>
+    <string name="cpose7">
+7.COMPLETE BOWEL-WASH (ŚANKHAPRAKSĀLANA KRIYĀ)\n\nDrink slowly about half a liter of luke-warm saline water.\n\nPerform dynamic exercises in the following order:\n\n1.Walking on toes with heels raised and hands lifted up.\n\n2.Twisting of the waist 3 times each side.\n\n3.Bhujangasana 3 times.\n\n4.Süryanamaskāra position 7 twisting towards left and right alternately 3 times each side.\n\n5.Ardha Matsyendrasana 3 times.\n\n6.Pavana Muktāsana.\n\n7.Udara karṣaṇāsana\n\n1.Sit on the heels, legs a little apart, as we sit in the lavatory for excretion.\n\n2.Turn the right leg with the right sole as the hinge, such that the right knee touches the ground by the left side of the left foot. Twist the whole body, especially the stomach muscles. Return to the original position.\n\n3.Repeat the process with the left leg and a fine twist to the right. Return. Repeat 3 times on each side. If a sensation to excrete is there, go to the toilet and empty the bowel. Drink about ½ liter of water again and perform the same series of exercises. Repeat 3 or 4 times until you get the sensation. Sometimes if there is no sensation of excretion even after 3 or 4 repetitions, Cakrāsana is performed.\n\n4.This helps to push out the excreta more effectively. After excretion again drink about the same quantity of water and repeat the exercises. Empty the bowel. This time the motion would be thinner and would come out with yellowish water. Repeat till mere water comes out.\n\n5.Relax completely in Savasana for at least an hour. During this period, small quantities of water may get emptied from the stomach a few times. Eat Khicaḍi (rice and dhal boiled together preferably without salt) with about 4-6 teaspoonful pure ghee. Leave about an hour after Savāsana.\n\n6.No spices or hard food should be taken for the next 12 hours.\n\n7.As this Kriya is exhausting because of the vigorous exercises involved and complete washing out of the juices, a complete day s rest is beneficial and almost essential the first time. After the process is learned, this Kriya is to be performed only once or twice in a year.\n\nBenefits: This complete wash of the bowel clears all the waste products in the bowel. Sankha-Prakṣālana revitalizes all the glands in the intestinal tract. Helps in overcoming the Tamas (laziness). When performed under guidance, it is useful in treating chronic disorders of the large intestine.
+</string>
+    <string name="cpose8">
+8.WIND RELEASING TECHNIQUE (PAVANA MUKTĀSANA KRIYĀ)\n\nA.Type 1\n\n*Sthiti: Lie supine on the ground over the blanket, heels together, arms stretched above the head.* Sthiti represents the starting position to be assumed before the asana.\n\n1.Raise the right leg keeping it straight to about 45° from the ground. Keep the left leg firmly on the ground. Inhale partially.\n\n2.Place the right leg perpendicular to the ground; complete inhalation.\n\n3.Bend the right leg and press the knees over the chest by holding the legs by interlocked fingers of the hands. Exhale.\n\n4.Take the chin above the knees. Rotate the left leg in an elliptical fashion 5 times in the clockwise direction and 5 times in the anticlockwise direction. Normal breathing. *Return to Sthiti position through 5 to 8.* Repeat with the left leg.\n\nB.Type 2\n\nStart from the Sthiti position.\n\n1.Take both legs to 45° position; keep the knees straight. Inhale slowly.\n\n2.Bring the legs perpendicular to the ground; complete inhalation.\n\n3.Bend the knees, and press them onto the chest by the hands with interlocked fingers. Exhale. Take the chin above the knees.\n\n4. (a) Take the chin above the knees. Roll the body to the right until the right elbow touches the ground. Roll back to the left till the left elbow touches the ground. Repeat this sideward rolling 5 times.\n\n(b) Rock the body forwards and backward about 5 times; normal breathing. Return to Sthiti from 5 to 8.\n\nBenefits: The movements coupled with the posture of the body in Pavana Muktasana help to remove the gaseous accumulations in the stomach, increase the digestive power and remove constipation.
+</string>
+
+
+    <string name="apose1">
+
+Sun Salutation (Suryanamaskara), consists of 12 flowing yoga postures:\n\n
+1.  Stand straight, palms joined, arms overhead, bend back while inhaling.\n\n
+2.  Bend forward, forehead to knees, palms on floor, exhale.\n\n
+3.  Stretch right leg back, left knee forward, look up, inhale.\n\n
+4.  Extend left leg, body straight at a 30° angle, exhale.\n\n
+5.  Drop knees, rest forehead, breathe normally.\n\n
+6.  Lower body to ground, exhale.\n\n
+7ift head, trunk, concave back, inhale.\n\n
+8.  Butt up, head down, heels on ground, exhale.\n\n
+Incorporating sound meditation enhances nerve stimulation, boosting health and energy.
+
+
+
+</string>
+    <string name="apose2">
+
+Mountain Pose (Tadasana) is a foundational yoga posture emphasizing strength, stability, and alignment:\n\n
+
+1.  Stand with feet together, toes touching, heels slightly apart. Distribute weight evenly across both feet.\n\n
+2.  Engage thigh muscles, lift kneecaps, tuck tailbone, and keep the pelvis neutral.\n\n
+3.  Roll shoulders back and down, open the chest, and relax arms with palms forward.\n\n
+4.  Lengthen the neck, align the head with the spine, and fix your gaze forward.\n\n
+5.  Breathe deeply and evenly, feeling grounded and relaxed.\n\n
+6.  Hold the pose for 30 seconds to 1 minute, focusing on breath and body sensations.\n\n
+Benefits include improved posture, enhanced balance and stability, strengthened thighs, and a heightened sense of presence.
+
+</string>
+    <string name="apose3">
+Hands to Feet Pose (Pāda Hastāsana) is a forward-bending yoga sequence:\n\n
+
+Start: Stand straight, heels together, toes apart, chest expanded, shoulders relaxed.\n\n
+Ekam (1): Inhale, raise hands sideways to shoulder level, palms down.\n\n
+Dve (2): Continue inhaling, lift hands above head, stretch upward.\n\n
+Trini (3): Exhale, bend forward to a horizontal position.\n\n
+Catvāri (4): Continue bending, touch knees with forehead, place palms beside feet.\n\n
+Panca (5): Inhale, raise head and hands level with the ground.\n\n
+Şaṭa (6): Continue to lift, returning to a vertical stance.\n\n
+Sapta (7): Exhale, lower hands to shoulder level.\n\n
+Aṣṭa (8): Lower hands completely, returning to starting position.\n\n
+Benefits:\n\n
+
+Stretches muscles and tendons in the back and legs, tones spinal and pelvic nerves, increases blood flow to the brain, and aids digestion.\n\n
+Therapeutically beneficial for gastric issues and diabetes.
+</string>
+    <string name="apose4">
+Tree Pose (Vrikshasana) is a standing yoga posture that enhances balance and focus:\n\n
+
+Start: Stand upright, feet together, arms at your sides.\n\n
+Step 2: Shift weight to your left foot, place the right foot against the inner left thigh or calf, not the knee.\n\n
+Step 3: Find a focal point, fix your gaze to help maintain balance.\n\n
+Step 4: Press palms together at the chest or raise arms overhead, emulating tree branches.\n\n
+Step 5: Engage your core, breathe steadily, and hold the pose for several breaths.\n\n
+Step 6: Release and lower your right foot to the floor.\n\n
+Step 7: Repeat on the opposite side with the left foot against the right thigh.\n\n
+Benefits:\n\n
+
+- Balance and Stability: Enhances physical and mental balance.\n\n
+- Strength: Strengthens the legs.\n\n
+- Focus: Improves concentration.\n\n
+- Mind-Body Connection: Fosters grounding and confidence.\n\n
+Tree pose is suitable for all levels and can be modified as needed, promoting harmony and poise in practice and daily life.
+</string>
+    <string name="apose5">
+Triangle Pose (Trikonasana) is a yoga posture that forms a triangle shape with the body:\n\n
+
+Start: Stand straight, heels together, toes slightly apart. Raise arms to shoulder level as you step the right foot out wide.\n\n
+Ekam (1): Bend to the right, touch the right foot with right hand, extend left arm vertically, gaze at left fingers. Exhale.\n\n
+Dve (2): Inhale and return to a horizontal arm position without moving your legs.\n\n
+Trini (3): Exhale, lower arms, and step right foot back to start.\n\n
+Repeat: Perform the same steps on the left side.\n\n
+Benefits:\n\n
+
+- Stretches and strengthens the spine, back muscles, thighs, calves, and hamstrings.\n\n
+- Stimulates adrenal glands and abdominal organs like the liver, spleen, and kidneys.\n\n
+- Reduces waistline and improves limb tone.
+</string>
+    <string name="apose6">
+Revolving Triangle Pose (Parivṛtta Trikonasana) shapes the body into a crossed triangle:\n\n
+
+Start: Stand erect, heels together, toes slightly apart, arms at sides.\n\n
+Ekam (1): Step the right foot about one meter to the side.\n\n
+Dve (2): Raise arms to shoulder level, palms down.\n\n
+Trini (3): Rotate waist 90 degrees left, keeping feet fixed.\n\n
+Catvāri (4): Bend at the waist, place right palm beside left foot, look up at left hand. Exhale.\n\n
+Pancha (5): Rise slowly, facing right, arms at shoulder level. Inhale.\n\n
+Saṭa (6): Return waist to front.\n\n
+Sapta (7): Bring hands down.\n\n
+Asta (8): Step right foot back to original position. Repeat on the other side.\n\n
+Benefits:\n\n
+
+- Stretches spine and tones abdominal organs, increasing flexibility.\n\n
+- Reduces abdominal fat, enhances spinal rotation, vitalizes kidneys.
+</string>
+    <string name="apose7">
+Extended Side Angle Pose (Pārsvakoṇāsana) forms a lateral angle with the body:\n\n
+
+Start: Stand straight, heels together, toes slightly apart, arms at your sides.\n\n
+Ekam (1): Step the right leg wide apart, 1 to 1.5 meters.\n\n
+Dve (2): Rotate the right foot 90 degrees to the right.\n\n
+Trini (3): Bend right, lower right palm to the side of the foot, thigh parallel to ground. Exhale.\n\n
+Catvāri (4): Extend left arm over the head, touching the ear, gaze at fingertips.\n\n
+Panca (5): Lower left arm to thigh. Inhale.\n\n
+Şata (6): Rise to upright, maintaining foot position. Inhale.\n\n
+Sapta (7): Rotate right foot 90 degrees back to the left.\n\n
+Asta (8): Step right leg back to meet the left. Exhale.\n\n
+Repeat: Perform the same steps on the opposite side.\n\n
+Benefits:\n\n
+
+- Strengthens legs, arms, and joints; expands the chest.\n\n
+- Stretches thighs; enhances lung capacity.\n\n
+- Therapeutically aids in managing diabetes and constipation.
+</string>
+    <string name="apose8">
+Diamond Pose (Vajrāsana) enhances strength and stability, focusing on toning the ankles and improving overall psycho-physiological health:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms on the floor beside the buttocks.\n\n
+Ekam (1): Fold the right leg at the knee and place the heel under the right buttock.\n\n
+Dve (2): Repeat with the left leg, placing the heel under the left buttock, knees together, palms on thighs.\n\n
+Trini (3): Unfold the left leg back to the extended position.\n\n
+Catvari (4): Unfold the right leg, returning to the starting position.\n\n
+Benefits:\n\n
+
+- Cultural: Loosens leg joints and muscles, boosts blood flow to the lower abdomen.\n\n
+- Therapeutic: Aids in managing hypertension, sciatica, and gastrointestinal issues.\n\n
+- Spiritual: Enhances meditation and breath control practices.
+</string>
+    <string name="apose9">
+Rabbit Pose (Sasāṅkāsana) reflects the shape of a crescent moon or a rabbit:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms beside the buttocks.\n\n
+Ekam (1): Bend the right leg, placing the heel under the buttock.\n\n
+Dve (2): Do the same with the left leg, knees together, hands on thighs.\n\n
+Trini (3): Interlace hands behind the back.\n\n
+Catvāri (4): Bend forward, forehead to floor. Exhale.\n\n
+Panca (5): Lift head and chest, inhaling.\n\n
+Sata (6): Release hands to thighs.\n\n
+Sapta (7): Straighten left leg.\n\n
+Asta (8): Straighten right leg.\n\n
+Benefits:\n\n
+
+- Cultural: Enhances circulation to abdominal organs, vitalizes pelvic region.\n\n
+- Therapeutic: Relaxes body, increases sensitivity.\n\n
+- Spiritual: Cools the system, calms the mind.
+</string>
+    <string name="apose10">
+Reclined Thunderbolt Pose (Suptavajrasana) involves reclining back from a seated position with the legs folded underneath:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms beside the buttocks.\n\n
+Ekam (1): Fold right leg, placing heel under the right buttock.\n\n
+Dve (2): Repeat with the left leg, knees together, hands on thighs.\n\n
+Trini (3): Recline backward, supporting body weight on elbows.\n\n
+Catväri (4): Lie fully on the back, hands crossed over the head.\n\n
+Panca (5): Release hands to sides, preparing to rise.\n\n
+Sata (6): Lift using elbows, returning to the Diamond Pose position.\n\n
+Sapta (7): Extend left leg straight.\n\n
+Aṣṭa (8): Extend right leg, returning to starting posture.\n\n
+Benefits:\n\n
+
+- Cultural: Tones spine, abdominal, pelvic areas; improves blood flow to thighs and buttocks; reduces leg stiffness.\n\n
+- Therapeutic: Aids those standing for long periods; helps relieve constipation.\n\n
+- Spiritual: Activates dormant spinal forces; deepens relaxation.
+</string>
+    <string name="apose11">
+Seated Forward Bend Pose (Paschimottanasana) deeply stretches the back of the body: \n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms on the floor beside the buttocks.\n\n
+Ekam (1): Raise hands to shoulder level, palms down.\n\n
+Dve (2): Lift arms overhead, palms forward, biceps by ears.\n\n
+Trini (3): Bend forward from the lumbar, hands parallel to the ground, reaching past the toes.\n\n
+Catvāri (4): Hook index fingers around big toes, bend further, face to knees.\n\n
+Panca (5): Release toes, lift torso back to horizontal.\n\n
+Sata (6): Return to upright seated, arms overhead.\n\n
+Sapta (7): Lower arms to sides, back to shoulder level.\n\n
+Aṣṭa (8): Place palms back on the floor beside the buttocks.\n\n
+Benefits:\n\n
+
+- Cultural: Stretches posterior chain, activates abdominal organs, may aid in height growth.\n\n
+- Therapeutic: Helps relieve symptoms of dyspepsia, constipation, and more; reduces abdominal fat.\n\n
+- Spiritual: Enhances spiritual awareness.
+</string>
+    <string name="apose12">
+Camel Pose (Ustrasana) mimics the shape of a camel and enhances flexibility:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms on the floor beside the buttocks.\n\n
+Ekam (1): Fold right leg, placing the heel under the right buttock.\n\n
+Dve (2): Fold left leg similarly, achieving Diamond Pose.\n\n
+Triņi (3): Kneel, making the trunk vertical.\n\n
+Catvāri (4): Lean back, placing palms on the soles of the feet.\n\n
+Panca (5): Release palms, returning to kneeling.\n\n
+Sata (6): Sit back onto the heels.\n\n
+Sapta (7): Straighten the left leg.\n\n
+Asta (8): Straighten the right leg, returning to the starting position.\n\n
+Benefits:\n\n
+
+- Cultural: Increases spinal flexibility, improves blood flow to the brain, tones abdominal organs, and stretches the thoracic region.\n\n
+- Therapeutic: Helps alleviate backaches, respiratory issues, arthritis, sciatica, and digestive troubles.\n\n
+- Spiritual: Boosts confidence and energizes the practitioner.
+</string>
+    <string name="apose13">
+Half Lord of the Fishes Pose (Ardhamatsyendrāsana) symbolizes the legendary yogi Matsyendranath is pose:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms beside the buttocks.\n\n
+Ekam (1): Fold the right knee, placing the heel against the perineum.\n\n
+Dve (2): Place the left foot outside the right thigh near the knee.\n\n
+Trini (3): Wrap the right hand around the left knee, reaching for the left big toe.\n\n
+Catvāri (4): Circle the left hand behind the back to grab the right thigh, twist to look over the left shoulder.\n\n
+Panca (5): Release the left hand, reverting to position three.\n\n
+Saṭa (6): Release the right hand, returning to position two.\n\n
+Sapta (7): Straighten the left leg, returning to the starting position.\n\n
+Asta (8): Straighten the right leg to original seated posture.\n\n
+Benefits:\n\n
+
+- Cultural: Stretches and tones the spine, massages abdominal organs, activates endocrine glands.\n\n
+- Therapeutic: Aids in alleviating digestive and back issues, supports kidney and liver health.\n\n
+- Spiritual: Enhances focus and energy, dispelling laziness.
+</string>
+    <string name="apose14">
+Spinal Twist Pose (Vakrāsana) involves a twisting motion for flexibility and spine health:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms on the floor beside the buttocks.\n\n
+Ekam (1): Bend the right leg, placing the right foot beside the left knee.\n\n
+Dve (2): Twist right, reaching the left hand over to catch the right big toe. Place the right hand behind you on the floor, look to the right.\n\n
+Trini (3): Release the left hand, placing it on the floor to your left.\n\n
+Catvāri (4): Unfold the right leg, returning to the initial seated position.\n\n
+Benefits:\n\n
+
+- Cultural: Tones and stretches the spine, enhances flexibility, massages abdominal organs.\n\n
+- Therapeutic: Aids in treating constipation, dyspepsia, diabetes, and issues related to the liver, spleen, and kidneys.\n\n
+- Spiritual: Combats laziness, promotes mental clarity and focus.
+</string>
+    <string name="apose15">
+
+Lotus Pose (Padmāsana) symbolizes purity and balance, reflecting the qualities of the lotus flower:\n\n
+
+Start (Sthiti): Sit with legs extended, heels together, palms on the floor beside the buttocks.\n\n
+Ekam (1): Fold the right leg, placing the heel at the root of the left thigh.\n\n
+Dve (2): Fold the left leg, heel to the root of the right thigh, palms on knees, fingers in a mudra, sit erect and relaxed.\n\n
+Trini (3): Unfold the left leg, returning to the starting posture.\n\n
+Catvari (4): Unfold the right leg, returning fully to the initial position.\n\n
+Benefits:\n\n
+
+Facilitates a balanced energy flow, enhancing prolonged meditative practice and awareness.
+</string>
+    <string name="apose17">
+Cobra Pose (Bhujangāsana) resembles a serpent raising its hood:\n\n
+
+Start (Sthiti): Lie face-down, hands extended above head, palms down, chin on the floor, legs together.\n\n
+Ekam (1): Bend elbows, place palms by the last rib.\n\n
+Dve (2): Lift head and chest, feeling the weight in the lumbar region.\n\n
+Trini (3): Lower chest and head, chin touches the floor.\n\n
+Catvāri (4): Extend arms back overhead, returning to start position.\n\n
+Benefits:\n\n
+
+- Cultural: Enhances spinal elasticity, expands thoracic muscles, tones spinal nerves.\n\n
+- Therapeutic: Alleviates neck and back pain, aids in bronchitis, asthma, digestive issues, reduces abdominal fat.\n\n
+- Spiritual: Promotes Kundalini energy rise, experienced as heat and energy surges.
+</string>
+    <string name="apose18">
+Locust Pose (Salabhāsana)
+
+Position (Sthiti):
+Lie face-down, hands extended above the head, palms down, legs together with soles up, body straight from toes to head.
+
+Steps:\n\n
+Ekam (1): Make the fists and place it under the root of the thigh.\n\n
+Dve (2): Raise both the legs together up from the waist.\n\n
+Trini (3):Return to position No.1.\n\n
+Catvāri (4): Return to sthiti.\n\n
+Benefits:\n\n
+
+- Physical: Tones hips, lumbar region, pelvis, abdomen, thighs, kidneys, and legs; activates the pancreas.\n\n
+- Therapeutic: Helps relieve constipation, gastritis, diabetes, and lumbago.\n\n
+- Spiritual: Increases body agility and aids in sense control.
+
+</string>
+    <string name="apose21">
+Fish Pose (Matsyasana)\n\n
+
+Steps:\n\n
+
+Start: Lie on your back, legs straight, arms by your sides.\n\n
+Setup: Place hands under hips, palms down, elbows close to sides.\n\n
+Lift: Press into elbows and forearms, arch your back, tilt your head back to rest the crown on the floor.\n\n
+Deepen: Increase the chest lift, relax your legs and lower body.\n\n
+Hold: Maintain the pose for several breaths, keeping the chest open and the neck relaxed.\n\n
+Release: Gently lower back down and relax.\n\n
+Benefits:\n\n
+
+- Opens the chest and throat, enhancing respiratory function.\n\n
+- Increases spine flexibility and strengthens back muscles.\n\n
+- Stimulates the Vishuddha (Throat) Chakra, promoting better communication and self-expression.\n\n
+- Alleviates tension in the neck, shoulders, and upper back.\n\n
+- Contributes to energetic and emotional balance.
+</string>
+    <string name="apose24">
+Corpse Pose (Savasana)v
+
+Position (Sthiti):\n\n
+Lie flat on the back, spread your feet and hands away from the body, adjusting each part for comfort. This pose aims to deeply relax all parts of the body and internal organs, eventually aiding in stress relief and heightened focus for meditation. Beginners may benefit from guided relaxation to learn how to fully relax.\n\n
+
+Benefits:\n\n
+
+- Physical: Strengthens and tones the body; relaxes muscles and joints.\n\n
+- Therapeutic: Highly effective in managing psychosomatic ailments such as hypertension and tension headaches.\n\n
+- Spiritual: Aids in practicing Antaranga Yoga, enhancing overall well-being.
+</string>
+
+
+</resources>
